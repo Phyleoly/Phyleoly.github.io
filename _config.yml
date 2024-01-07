@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Phyleoly / Blog"
 title_separator          : "-"
 name                     : &name "Phyleoly"
-description              : &description "personal description"
+description              : &description "一个朴实的IT民工"
 url                      : https://phyleoly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Phyleoly/Phyleoly.github.io"
@@ -86,8 +86,8 @@ author:
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : # example "http://yourfullgooglescholarurl.com"
+  email            : "wangbaizheng@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
